@@ -24,7 +24,7 @@ Collection of awesome tools and libraries for building interfaces.
   * Cannot define a threshold for the predefined sets
   </details>
 
-## UI compoentns
+## UI components
 
 ### Images comparison
 
