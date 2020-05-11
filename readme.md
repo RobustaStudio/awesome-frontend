@@ -4,6 +4,23 @@ Collection of awesome tools and libraries for building interfaces.
 
 ## UI compoentns
 
+### Images comparison
+
+* [Image Compare Viewer](https://image-compare-viewer.netlify.app/)
+
+  <details><summary>Details</summary>
+
+  > Compare before and after images, for grading, CGI and other retouching comparisons. Vanilla Javascript, zero dependencies.
+
+  **Pros**
+
+  * Dependency Free
+  * Works very well on mobile and touch friendly devices
+  * Support vertical and horizontal modes
+  * Simple markup and simple setup
+  * Actively maintained
+  </details>
+
 ### Sliders
 
 * [Swiper.js](https://swiperjs.com/)
