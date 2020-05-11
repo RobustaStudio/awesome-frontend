@@ -2,6 +2,28 @@
 
 Collection of awesome tools and libraries for building interfaces.
 
+## Animation and Parallax
+
+* [Lax.js](https://github.com/alexfoxy/lax.js)
+
+  <details><summary>Details</summary>
+
+  > Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!
+
+  Mainly used to create parallax effects
+
+  **Pros**
+
+  * Predefined sets for parallax with very simple configuration rules
+  * Can be enabled / disabled / reinitialized (for window resize)
+  * Support custom animation rules
+
+  **Cons**
+
+  * Custom animations are not easy to configure
+  * Cannot define a threshold for the predefined sets
+  </details>
+
 ## UI compoentns
 
 ### Images comparison
