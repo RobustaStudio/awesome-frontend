@@ -63,6 +63,26 @@ Collection of awesome tools and libraries for building interfaces.
   * Expose events
   </details>
 
+## Utilities
+
+* [in-view.js](https://github.com/camwiegert/in-view)
+
+  <details><summary>Details</summary>
+
+  > Get notified when a DOM element enters or exits the viewport. A small (~1.9kb gzipped), dependency-free, javascript utility for IE9+.
+
+  **Pros**
+
+  * Dependency Free, small in size
+  * Dead simple to implement
+  
+  **Cons**
+  
+  * Original author archived the repository, this means it's deprecated and won't recieve fixes and updates
+  * Use MutationObserver. Currently IntersectionObserver is way more performant
+  * Some options like `threshold` cannot be defined per instance. It's global
+  </details>
+
 ## Vue
 
 Use these when shopping for Vue libraries.
