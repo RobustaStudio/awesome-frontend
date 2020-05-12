@@ -62,3 +62,66 @@ Collection of awesome tools and libraries for building interfaces.
   * Built-in lazy loading
   * Expose events
   </details>
+
+## Vue
+
+Use these when shopping for Vue libraries.
+
+### UI Utilities
+
+#### Form Validation
+
+* [vee-validate](https://github.com/logaretm/vee-validate)
+
+  <details><summary>Details</summary>
+
+  > Template Driven Validation Framework for Vue.js
+
+  **Pros**
+
+  * Dependency Free
+  * Actively Maintained
+  * Localization Support
+  * Async and Custom Rules Support
+  </details>
+
+#### I18n
+
+* [vue-i18n](https://kazupon.github.io/vue-i18n/)
+
+  <details><summary>Details</summary>
+
+  > Vue I18n is internationalization plugin for Vue.js
+
+  **Pros**
+
+  * Most Popular
+  * Actively Maintained
+  * App-level translations as well as component-level translations
+
+  **for Nuxt use the `nuxt-i18n` module that uses this under the hood.**
+
+  </details>
+
+### UI components
+
+### Sliders
+
+* [hooper](https://github.com/baianat/hooper)
+
+  <details><summary>Details</summary>
+
+  > A customizable accessible carousel slider optimized for Vue
+
+  **Cons**
+
+  * No longer maintained
+
+  **Pros**
+
+  * Most Popular
+  * Touch, Keyboard, Mouse Wheel, and Navigation support
+  * SSR Support
+  * Easily customizable through rich API and addons
+
+  </details>
