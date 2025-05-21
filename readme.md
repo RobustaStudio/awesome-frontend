@@ -83,6 +83,23 @@ Collection of awesome tools and libraries for building interfaces.
   * Some options like `threshold` cannot be defined per instance. It's global
   </details>
 
+ * [NanoID](https://zelark.github.io/nano-id-cc/)
+
+<details><summary>Details</summary>
+
+> NanoID is a tiny, secure, URL-friendly, unique string ID generator for JavaScript. It’s a great alternative to UUID, optimized for speed and small bundle size.
+
+**Pros**
+
+* Super lightweight (less than 1KB)  
+* Extremely fast ID generation  
+* Perfect for client-side apps, especially React  
+* No dependencies  
+* Secure: uses cryptographic random values  
+* Great for generating user IDs, keys, filenames, etc.
+
+</details>
+
 ## Vue
 
 Use these when shopping for Vue libraries.
